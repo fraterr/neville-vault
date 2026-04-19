@@ -23,7 +23,7 @@ The vault is organized into several sections to make Neville's teachings easy to
 - [[Books/Books\|Books]]
 - [[Lectures/Lectures\|Lectures]]
 	- [[Lectures/Radio Lectures/Radio Lectures\|Radio Lectures]]
-- [[Search\|Search]]
+- [[Search/Search\|Search]]
 - [[Feedback\|Feedback]]
 - [[Buy me a Tea\|Buy me a Tea]]
 - [[Updates and changelog\|Updates and changelog]]
@@ -40,7 +40,7 @@ Over 200 transcripts from Neville's [[Lectures/Lectures\|lectures]] delivered li
 
 Transcripts of Neville's [[Lectures/Radio Lectures/Radio Lectures\|talks]] and lessons given over radio broadcasts.
 
-### [[Search\|Search]]
+### [[Search/Search\|Search]]
 
 Neville's writings indexed and organized by key [[Search/Topics\|topics]], themes, [[Bible References|Bible verses], and more. Enables focused study on specific aspects of his teachings.
 
