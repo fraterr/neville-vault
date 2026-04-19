@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","dg-note-properties":{"banner":"Handles/img/banner index.png","sticker":"emoji//1f3e0"}}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dg-note-properties":{"banner":"Handles/img/banner index.png","sticker":"emoji//1f3e0"}}
 ---
 
 Welcome to the Neville Goddard Vault! This website contains the [[Books/Books\|published works]] and [[Lectures/Lectures\|lecture transcripts]] of Neville Goddard, the influential 20th century metaphysical teacher. Every single text (be it the chapter of a book, a lecture or a radio lecture) <u>has its own comprehensive summary</u>, for enhanced readability and understanding. You can find summaries at the <u>end of each single note</u>.
